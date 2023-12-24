@@ -1,2 +1,2 @@
 # Desenvolvedor
- Primeiro repositorio de Git  e GitHub
+ Repositorio de Git  e GitHub
